@@ -24,6 +24,10 @@ Response
 
 The API is limited to `20 requests per minute`.
 
+## Deployment
+
+The API is deployed on a VPS using Docker and Nginx.
+
 ## Local Development
 
 Clone the repository
