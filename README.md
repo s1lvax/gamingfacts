@@ -1,5 +1,7 @@
 # Gaming Facts
 
+![logo](https://github.com/s1lvax/gamingfacts/assets/113994636/8f0d8a7f-fc8a-4723-bc65-9d18b2e074e8)
+
 ## Description
 
 A simple api that returns a random interesting fact about videogames/gaming.
