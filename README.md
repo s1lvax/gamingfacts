@@ -26,6 +26,10 @@ Response
 
 The API is limited to `20 requests per minute`.
 
+### Documentation
+
+[![RapidAPI]([https://example.com/image.png](https://github.com/s1lvax/gamingfacts/assets/113994636/4d3293a4-b58d-4b23-8926-aeb7c91716d0))](https://rapidapi.com/s1lvax/api/gaming-facts)
+
 ## Deployment
 
 The API is deployed on a VPS using Docker and Nginx.
