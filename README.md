@@ -30,8 +30,6 @@ The API is limited to `20 requests per minute`.
 
 [<img src="https://github.com/s1lvax/gamingfacts/assets/113994636/4d3293a4-b58d-4b23-8926-aeb7c91716d0">](https://rapidapi.com/s1lvax/api/gaming-facts)
 
-[<img src="path/to/image.png">](https://link-to-your-URL/)
-
 ## Deployment
 
 The API is deployed on a VPS using Docker and Nginx.
