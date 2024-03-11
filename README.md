@@ -1,6 +1,6 @@
 # Gaming Facts
 
-![logo](https://github.com/s1lvax/gamingfacts/assets/113994636/8f0d8a7f-fc8a-4723-bc65-9d18b2e074e8)
+![logo_api](https://github.com/s1lvax/gamingfacts/assets/113994636/20f19a28-0be6-46c3-9a96-674b4a59b446)
 
 ## Description
 
